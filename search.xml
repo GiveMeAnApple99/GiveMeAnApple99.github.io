@@ -21,9 +21,15 @@
       <link href="/2023/03/25/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2023/03/25/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<h1 id="握盘"><a href="#握盘" class="headerlink" title="握盘"></a>握盘</h1><p>握盘的姿势我尝试过两种：<br>目前比较习惯第二种，可根据个人习惯和日常训练需要选择握盘手势</p><h1 id="发盘"><a href="#发盘" class="headerlink" title="发盘"></a>发盘</h1><p>出盘前手要把稳，不能在出盘那一刻脱手（也就是不要手滑）<br>然后</p>]]></content>
+        <content type="html"><![CDATA[<p><strong>NOTICE</strong>本人也只是一位飞盘新手，对于玩好飞盘还在慢慢摸索，以下观点仅供参考</p><h1 id="握盘"><a href="#握盘" class="headerlink" title="握盘"></a>握盘</h1><p>握盘的姿势我尝试过两种：<br><img src="https://cdn.jsdelivr.net/gh/GiveMeAnApple99/static_resource@main/img/wopan_1.png" alt="除大拇指外的四指都在盘下"><br><img src="https://cdn.jsdelivr.net/gh/GiveMeAnApple99/static_resource@main/img/wopan_2.png" alt="食指放在盘的边缘"><br>目前比较习惯第二种，可根据个人习惯和日常训练需要选择握盘手势。</p><h1 id="发盘"><a href="#发盘" class="headerlink" title="发盘"></a>发盘</h1><h2 id="出盘前"><a href="#出盘前" class="headerlink" title="出盘前"></a>出盘前</h2><p>出盘前手要把稳，不能在出盘那一瞬间脱手（也就是不要手滑），否则盘会在空中摇摆晃荡，是一个不合格的盘。</p><h2 id="出盘"><a href="#出盘" class="headerlink" title="出盘"></a>出盘</h2><ul><li>我认为飞盘和羽毛球有共通之处：腕力。在出盘的那一瞬间将手臂的力量集中在手腕，施加给飞盘。</li><li>出盘时尽可能保持盘面是平的。</li><li>让盘在你的目标方向位置点出手，不要给盘一个其他方向的分力（这点我还在练习中，理论懂了，实践全废，总是扔歪😭）</li></ul><h2 id="出盘后"><a href="#出盘后" class="headerlink" title="出盘后"></a>出盘后</h2><p>没啥事了，静静待在原地欣赏这次扔出去的盘的轨迹就好🙄</p><h1 id="接盘"><a href="#接盘" class="headerlink" title="接盘"></a>接盘</h1><p>接盘手势有多种：</p><ul><li>最适合初学者也就是最容易上手的是：夹盘接法<br><img src="https://cdn.jsdelivr.net/gh/GiveMeAnApple99/static_resource@main/img/jiapan.png" alt="夹盘接法"></li><li>双手抓盘<br><img src="https://cdn.jsdelivr.net/gh/GiveMeAnApple99/static_resource@main/img/shuangshouzhuapan.png" alt="双手抓盘"></li><li>接在身体外侧的盘适合用：单手抓盘<br><img src="https://cdn.jsdelivr.net/gh/GiveMeAnApple99/static_resource@main/img/danshouzhuapan.png" alt="单手抓盘"></li></ul><h1 id="扔远盘"><a href="#扔远盘" class="headerlink" title="扔远盘"></a>扔远盘</h1><ul><li>力量：相当于给盘了一个不错的初始速度和加速度</li><li>方向：保证盘面的平</li></ul>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 生活 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -33,9 +39,20 @@
     
     
     <entry>
-      <title>Music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>About</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Movies</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -55,9 +72,9 @@
     
     
     <entry>
-      <title>About</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>Music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -66,9 +83,9 @@
     
     
     <entry>
-      <title>Movies</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
