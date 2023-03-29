@@ -8,7 +8,7 @@
       <link href="/2023/03/29/jekyll/"/>
       <url>/2023/03/29/jekyll/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="Ruby版本"><a href="#Ruby版本" class="headerlink" title="Ruby版本"></a>Ruby版本</h1><p>这就是为什么ruby我要重新安装3.0.x的版本，因为一开始装好最新版本3.2.1后执行gem install jekyll总是失败，看到这个<a href="https://github.com/jekyll/jekyll/issues/9033">issue</a>后我重装了Ruby3.0.5</p>]]></content>
       
       
       <categories>
@@ -97,9 +97,9 @@
     
     
     <entry>
-      <title>Music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>Categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -108,9 +108,9 @@
     
     
     <entry>
-      <title>Categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>Music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
