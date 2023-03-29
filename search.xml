@@ -4,13 +4,54 @@
   
     
     <entry>
-      <title>Hello Worldxx</title>
-      <link href="/2023/03/25/hello-world/"/>
-      <url>/2023/03/25/hello-world/</url>
+      <title>Jekyll踩坑记录</title>
+      <link href="/2023/03/29/jekyll/"/>
+      <url>/2023/03/29/jekyll/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
       
+      <categories>
+          
+          <category> 前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 个人主页 </tag>
+            
+            <tag> Jekyll </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>搭建个人主页的一些不完全总结</title>
+      <link href="/2023/03/29/buildblogpost/"/>
+      <url>/2023/03/29/buildblogpost/</url>
+      
+        <content type="html"><![CDATA[<p>下面是我对本次作业搭建个人主页的一些总结和反思，持续更新…</p><h1 id="博客主题及其选取原因"><a href="#博客主题及其选取原因" class="headerlink" title="博客主题及其选取原因"></a>博客主题及其选取原因</h1><p>选择的theme是<a href="https://github.com/jerryc127/hexo-theme-butterfly">Hexo Butterfly</a>，整体UI风格比较简洁明亮，操作简单，易于上手</p><h2 id="为什么选择Hexo"><a href="#为什么选择Hexo" class="headerlink" title="为什么选择Hexo"></a>为什么选择Hexo</h2><p>与其问我为什么选择Hexo框架来搭建个人主页，不如问问Jekyll为什么那么难用，可以见<a href="">这篇博文</a></p><h1 id="博客页面布局及其设计思路"><a href="#博客页面布局及其设计思路" class="headerlink" title="博客页面布局及其设计思路"></a>博客页面布局及其设计思路</h1><h1 id="博客功能实现及其技术选择"><a href="#博客功能实现及其技术选择" class="headerlink" title="博客功能实现及其技术选择"></a>博客功能实现及其技术选择</h1><h1 id="博客样式设计及其美学考量"><a href="#博客样式设计及其美学考量" class="headerlink" title="博客样式设计及其美学考量"></a>博客样式设计及其美学考量</h1><h1 id="博客制作过程中遇到的问题及其解决方法"><a href="#博客制作过程中遇到的问题及其解决方法" class="headerlink" title="博客制作过程中遇到的问题及其解决方法"></a>博客制作过程中遇到的问题及其解决方法</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 个人主页 </tag>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
       
     </entry>
     
@@ -24,10 +65,16 @@
         <content type="html"><![CDATA[<p><strong>NOTICE</strong>本人也只是一位飞盘新手，对于玩好飞盘还在慢慢摸索，以下观点仅供参考</p><h1 id="握盘"><a href="#握盘" class="headerlink" title="握盘"></a>握盘</h1><p>握盘的姿势我尝试过两种：<br><img src="https://cdn.jsdelivr.net/gh/GiveMeAnApple99/static_resource@main/img/wopan_1.png" alt="除大拇指外的四指都在盘下"><br><img src="https://cdn.jsdelivr.net/gh/GiveMeAnApple99/static_resource@main/img/wopan_2.png" alt="食指放在盘的边缘"><br>目前比较习惯第二种，可根据个人习惯和日常训练需要选择握盘手势。</p><h1 id="发盘"><a href="#发盘" class="headerlink" title="发盘"></a>发盘</h1><h2 id="出盘前"><a href="#出盘前" class="headerlink" title="出盘前"></a>出盘前</h2><p>出盘前手要把稳，不能在出盘那一瞬间脱手（也就是不要手滑），否则盘会在空中摇摆晃荡，是一个不合格的盘。</p><h2 id="出盘"><a href="#出盘" class="headerlink" title="出盘"></a>出盘</h2><ul><li>我认为飞盘和羽毛球有共通之处：腕力。在出盘的那一瞬间将手臂的力量集中在手腕，施加给飞盘。</li><li>出盘时尽可能保持盘面是平的。</li><li>让盘在你的目标方向位置点出手，不要给盘一个其他方向的分力（这点我还在练习中，理论懂了，实践全废，总是扔歪😭）</li></ul><h2 id="出盘后"><a href="#出盘后" class="headerlink" title="出盘后"></a>出盘后</h2><p>没啥事了，静静待在原地欣赏这次扔出去的盘的轨迹就好🙄</p><h1 id="接盘"><a href="#接盘" class="headerlink" title="接盘"></a>接盘</h1><p>接盘手势有多种：</p><ul><li>最适合初学者也就是最容易上手的是：夹盘接法<br><img src="https://cdn.jsdelivr.net/gh/GiveMeAnApple99/static_resource@main/img/jiapan.png" alt="夹盘接法"></li><li>双手抓盘<br><img src="https://cdn.jsdelivr.net/gh/GiveMeAnApple99/static_resource@main/img/shuangshouzhuapan.png" alt="双手抓盘"></li><li>接在身体外侧的盘适合用：单手抓盘<br><img src="https://cdn.jsdelivr.net/gh/GiveMeAnApple99/static_resource@main/img/danshouzhuapan.png" alt="单手抓盘"></li></ul><h1 id="扔远盘"><a href="#扔远盘" class="headerlink" title="扔远盘"></a>扔远盘</h1><ul><li>力量：相当于给盘了一个不错的初始速度和加速度</li><li>方向：保证盘面的平</li></ul>]]></content>
       
       
+      <categories>
+          
+          <category> 生活 </category>
+          
+      </categories>
+      
       
         <tags>
             
-            <tag> 生活 </tag>
+            <tag> 运动 </tag>
             
         </tags>
       
@@ -36,17 +83,6 @@
     
   
   
-    
-    
-    <entry>
-      <title>Categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
     
     
     <entry>
@@ -61,9 +97,20 @@
     
     
     <entry>
-      <title>Tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>Music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -83,9 +130,9 @@
     
     
     <entry>
-      <title>Music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>Tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
