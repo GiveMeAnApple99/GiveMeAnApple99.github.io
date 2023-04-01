@@ -8,7 +8,7 @@
       <link href="/2023/03/29/jekyll/"/>
       <url>/2023/03/29/jekyll/</url>
       
-        <content type="html"><![CDATA[<h1 id="Ruby版本"><a href="#Ruby版本" class="headerlink" title="Ruby版本"></a>Ruby版本</h1><p>这就是为什么ruby我要重新安装3.0.x的版本，因为一开始装好最新版本3.2.1后执行gem install jekyll总是失败，看到这个<a href="https://github.com/jekyll/jekyll/issues/9033">issue</a>后我重装了Ruby3.0.5</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="Ruby版本"><a href="#Ruby版本" class="headerlink" title="Ruby版本"></a>Ruby版本</h1><p>这就是为什么ruby我要重新安装3.0.x的版本，因为一开始装好最新版本3.2.1后执行gem install jekyll总是失败，直到看到这个<a href="https://github.com/jekyll/jekyll/issues/9033">issue</a>后我重装了Ruby3.0.5。<br>可能是sassc与x64-mingw-ucrt平台不兼容导致出错，因此需要把Ruby的版本降到3.0.x。</p><h1 id=""><a href="#" class="headerlink" title=""></a></h1>]]></content>
       
       
       <categories>
@@ -35,7 +35,7 @@
       <link href="/2023/03/29/buildblogpost/"/>
       <url>/2023/03/29/buildblogpost/</url>
       
-        <content type="html"><![CDATA[<p>下面是我对本次作业搭建个人主页的一些总结和反思，持续更新…</p><h1 id="博客主题及其选取原因"><a href="#博客主题及其选取原因" class="headerlink" title="博客主题及其选取原因"></a>博客主题及其选取原因</h1><p>选择的theme是<a href="https://github.com/jerryc127/hexo-theme-butterfly">Hexo Butterfly</a>，整体UI风格比较简洁明亮，操作简单，易于上手</p><h2 id="为什么选择Hexo"><a href="#为什么选择Hexo" class="headerlink" title="为什么选择Hexo"></a>为什么选择Hexo</h2><p>与其问我为什么选择Hexo框架来搭建个人主页，不如问问Jekyll为什么那么难用，可以见<a href="">这篇博文</a></p><h1 id="博客页面布局及其设计思路"><a href="#博客页面布局及其设计思路" class="headerlink" title="博客页面布局及其设计思路"></a>博客页面布局及其设计思路</h1><h1 id="博客功能实现及其技术选择"><a href="#博客功能实现及其技术选择" class="headerlink" title="博客功能实现及其技术选择"></a>博客功能实现及其技术选择</h1><h1 id="博客样式设计及其美学考量"><a href="#博客样式设计及其美学考量" class="headerlink" title="博客样式设计及其美学考量"></a>博客样式设计及其美学考量</h1><h1 id="博客制作过程中遇到的问题及其解决方法"><a href="#博客制作过程中遇到的问题及其解决方法" class="headerlink" title="博客制作过程中遇到的问题及其解决方法"></a>博客制作过程中遇到的问题及其解决方法</h1>]]></content>
+        <content type="html"><![CDATA[<p>下面是我对本次作业搭建个人主页的一些总结和反思，持续更新…</p><h1 id="博客主题及其选取原因"><a href="#博客主题及其选取原因" class="headerlink" title="博客主题及其选取原因"></a>博客主题及其选取原因</h1><p>选择的theme是<a href="https://github.com/jerryc127/hexo-theme-butterfly">Hexo Butterfly</a>，整体UI风格比较简洁明亮，操作简单，易于上手。</p><h2 id="为什么选择Hexo"><a href="#为什么选择Hexo" class="headerlink" title="为什么选择Hexo"></a>为什么选择Hexo</h2><p>Hexo这款博客框架，部署方便迅速，并且有众多定制的主题模板可供挑选并使用。<br>由于<br>与其问我为什么选择Hexo框架来搭建个人主页，不如问问Jekyll为什么那么难用，可见<a href="/2023/03/29/jekyll">这篇博文</a></p><h1 id="博客页面布局及其设计思路"><a href="#博客页面布局及其设计思路" class="headerlink" title="博客页面布局及其设计思路"></a>博客页面布局及其设计思路</h1><h1 id="博客功能实现及其技术选择"><a href="#博客功能实现及其技术选择" class="headerlink" title="博客功能实现及其技术选择"></a>博客功能实现及其技术选择</h1><h1 id="博客样式设计及其美学考量"><a href="#博客样式设计及其美学考量" class="headerlink" title="博客样式设计及其美学考量"></a>博客样式设计及其美学考量</h1><h1 id="博客制作过程中遇到的问题及其解决方法"><a href="#博客制作过程中遇到的问题及其解决方法" class="headerlink" title="博客制作过程中遇到的问题及其解决方法"></a>博客制作过程中遇到的问题及其解决方法</h1><p>前期我使用的是Jekyll框架，遇到了诸多问题，可见<br>有的解决方法</p>]]></content>
       
       
       <categories>
@@ -86,17 +86,6 @@
     
     
     <entry>
-      <title>About</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Categories</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -119,11 +108,11 @@
     
     
     <entry>
-      <title>Music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>About</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="本站"><a href="#本站" class="headerlink" title="本站"></a>本站</h1><p>什么都发，随缘更新</p><h1 id="本人"><a href="#本人" class="headerlink" title="本人"></a>本人</h1><p>去现实生活认识我</p>]]></content>
       
     </entry>
     
@@ -133,6 +122,17 @@
       <title>Tags</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
