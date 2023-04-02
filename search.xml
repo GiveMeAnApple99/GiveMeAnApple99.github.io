@@ -86,20 +86,9 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/mouse.css"/>
-      <url>/css/mouse.css</url>
-      
-        <content type="html"><![CDATA[body {    cursor: url(https://gcore.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/default.cur),        default;}a,img {    cursor: url(https://gcore.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/pointer.cur),        default;}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>Categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -119,9 +108,9 @@
     
     
     <entry>
-      <title>Categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>Movies</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -130,9 +119,9 @@
     
     
     <entry>
-      <title>Movies</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title>Music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -146,6 +135,17 @@
       <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/mouse.css"/>
+      <url>/css/mouse.css</url>
+      
+        <content type="html"><![CDATA[body {    cursor: url(https://gcore.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/default.cur),        default;}a,img {    cursor: url(https://gcore.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/pointer.cur),        default;}]]></content>
       
     </entry>
     
